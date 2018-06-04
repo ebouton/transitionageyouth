@@ -1,4 +1,4 @@
 # Table of contents
 
-* [A College Student's Guide to Getting Mental Health Care](README.md)
+* A College Student's Guide to Getting Mental Health Care
 
